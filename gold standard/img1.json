@@ -1,0 +1,14 @@
+{
+  "image_filename": "img1.jpg",
+  "content": {
+    "original": "여당내 떠오르는 ‘親李’... 全大이후 ‘親文의 분화’",
+    "transcription": "여당내 떠오르는 ‘친이’... 전대이후 ‘친문의 분화’"
+  },
+  "metadata": {
+    "task": "News",
+    "difficulty": "3",
+    "language": ["ko", "zh"],
+    "mixed_script": true,
+    "annotator": "HAN SEO HEE"
+  }
+}

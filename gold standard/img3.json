@@ -1,0 +1,14 @@
+{
+  "image_filename": "img3.jpg",
+  "content": {
+    "original": "國漢文 혼용과 國力 신장",
+    "transcription": "국한문 혼용과 국력 신장"
+  },
+  "metadata": {
+    "task": "News",
+    "difficulty": "2",
+    "language": ["ko", "zh"],
+    "mixed_script": true,
+    "annotator": "HAN SEO HEE"
+  }
+}

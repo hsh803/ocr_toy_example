@@ -1,0 +1,14 @@
+{
+  "image_filename": "img2.jpg",
+  "content": {
+    "original": "漢字교육 추진·光化門 扁額 문제 市民公聽會 참석 요망",
+    "transcription": "한자교육 추진·광화문 편액 문제 시민공청회 참석 요망"
+  },
+  "metadata": {
+    "task": "News",
+    "difficulty": "3",
+    "language": ["ko", "zh"],
+    "mixed_script": true,
+    "annotator": "HAN SEO HEE"
+  }
+}
